@@ -98,7 +98,7 @@ function areaPerimetro(ph, pl) {
 
 let baseAltura = areaPerimetro(6, 8);
 
-let linguagemBraba = ['js', 'python', 'php'];
+let linguagemBraba = ['js', 'python', 'html'];
 linguagemBraba.pop();
 linguagemBraba.push('Java', 'c++')
 console.log(linguagemBraba[1]);
